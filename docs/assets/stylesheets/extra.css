@@ -1,0 +1,38 @@
+:root {
+  --dw-border: rgba(33, 52, 73, 0.12);
+  --dw-accent: #0f766e;
+  --dw-soft: #eef6f6;
+}
+
+.md-header,
+.md-tabs {
+  background: linear-gradient(90deg, #25364a 0%, #344b63 48%, #0f766e 100%);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  letter-spacing: -0.02em;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border: 1px solid var(--dw-border);
+  border-radius: 0.8rem;
+}
+
+.md-typeset table:not([class]) {
+  border: 1px solid var(--dw-border);
+  border-radius: 0.6rem;
+  overflow: hidden;
+}
+
+.md-typeset .grid.cards>ul>li,
+.md-typeset .grid.cards>ol>li {
+  border: 1px solid var(--dw-border);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.95), var(--dw-soft));
+}
+
+.md-footer {
+  background: #1f2937;
+}
