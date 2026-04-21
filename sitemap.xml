@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://docs.deepwave.local/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/architecture/public-architecture/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/architecture/public-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/architecture/public-architecture/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/getting-started/overview/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/getting-started/overview/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/getting-started/overview/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/governance/contribution-workflow/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/governance/contribution-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/governance/contribution-workflow/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/module-developer-guide/configuration-and-dsl/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/configuration-and-dsl/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/configuration-and-dsl/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/module-developer-guide/module-contract/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/module-contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/module-contract/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/module-developer-guide/module-types/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/module-types/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/module-types/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/module-developer-guide/templates-and-examples/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/templates-and-examples/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/templates-and-examples/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/module-developer-guide/testing-and-debugging/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/testing-and-debugging/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/testing-and-debugging/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/module-developer-guide/validation-and-ordering/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/validation-and-ordering/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/validation-and-ordering/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/reference/glossary/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/reference/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/reference/glossary/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/reference/public-api-boundary/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/reference/public-api-boundary/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/reference/public-api-boundary/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/architecture/public-architecture/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/architecture/public-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/architecture/public-architecture/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/getting-started/overview/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/getting-started/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/getting-started/overview/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/governance/contribution-workflow/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/governance/contribution-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/governance/contribution-workflow/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/module-developer-guide/configuration-and-dsl/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/configuration-and-dsl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/configuration-and-dsl/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/module-developer-guide/module-contract/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/module-contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/module-contract/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/module-developer-guide/module-types/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/module-types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/module-types/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/module-developer-guide/templates-and-examples/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/templates-and-examples/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/templates-and-examples/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/module-developer-guide/testing-and-debugging/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/testing-and-debugging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/testing-and-debugging/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/module-developer-guide/validation-and-ordering/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/module-developer-guide/validation-and-ordering/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/module-developer-guide/validation-and-ordering/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/reference/glossary/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/reference/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/reference/glossary/"/>
+    </url>
+    <url>
+        <loc>https://docs.deepwave.local/zh/reference/public-api-boundary/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.deepwave.local/zh/reference/public-api-boundary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.deepwave.local/reference/public-api-boundary/"/>
+    </url>
+</urlset>
