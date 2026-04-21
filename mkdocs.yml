@@ -1,7 +1,7 @@
-site_name: DeepWave Module Developer Docs
+site_name: DeepWave Cloud Module Developer Docs
 site_description: Enterprise documentation portal for external module developers.
-site_author: DeepWave Engineering
-site_url: https://docs.deepwave.local/
+site_author: DeepWave Cloud
+site_url: https://docs.deepwavecloud.com/
 docs_dir: docs
 site_dir: site
 use_directory_urls: true
